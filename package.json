@@ -1,0 +1,37 @@
+{
+  "name": "generator-ymca",
+  "version": "1.0.0",
+  "description": "Yeoman MVP Clean Android Architecture",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otomatik/ymca.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "android",
+    "clean",
+    "architecure",
+    "mvp"
+  ],
+  "author": "Thomas Dalous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otomatik/ymca/issues"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.18.0",
+    "chalk": "^0.5.0",
+    "yosay": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/otomatik/ymca#readme"
+}

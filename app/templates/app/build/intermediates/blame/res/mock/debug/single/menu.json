@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/build/intermediates/res/merged/mock/debug/menu/filter_tasks.xml",
+        "source": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/src/main/res/menu/filter_tasks.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/build/intermediates/res/merged/mock/debug/menu/tasks_fragment_menu.xml",
+        "source": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/src/main/res/menu/tasks_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/build/intermediates/res/merged/mock/debug/menu/filter_tasks.xml",
+        "source": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/src/main/res/menu/filter_tasks.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/build/intermediates/res/merged/mock/debug/menu/drawer_actions.xml",
+        "source": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/src/main/res/menu/drawer_actions.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/build/intermediates/res/merged/mock/debug/menu/drawer_actions.xml",
+        "source": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/src/main/res/menu/drawer_actions.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/build/intermediates/res/merged/mock/debug/menu/tasks_fragment_menu.xml",
+        "source": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/src/main/res/menu/tasks_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/build/intermediates/res/merged/mock/debug/menu/taskdetail_fragment_menu.xml",
+        "source": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/src/main/res/menu/taskdetail_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/build/intermediates/res/merged/mock/debug/menu/taskdetail_fragment_menu.xml",
+        "source": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/src/main/res/menu/taskdetail_fragment_menu.xml"
+    }
+]

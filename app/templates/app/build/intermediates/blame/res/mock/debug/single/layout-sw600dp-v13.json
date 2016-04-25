@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/build/intermediates/res/merged/mock/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/tda/Documents/Protos/android-architecture/todoapp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/build/intermediates/res/merged/mock/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/tda/Documents/Protos/generator-ymca/app/templates/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    }
+]
