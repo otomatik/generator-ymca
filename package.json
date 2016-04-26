@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otomatik/ymca.git"
+    "url": "git+https://github.com/otomatik/generator-ymca.git"
   },
   "keywords": [
     "yeoman-generator",
@@ -23,7 +23,7 @@
   "author": "Thomas Dalous",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/otomatik/ymca/issues"
+    "url": "https://github.com/otomatik/generator-ymca/issues"
   },
   "dependencies": {
     "yeoman-generator": "^0.18.0",
@@ -33,5 +33,5 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "homepage": "https://github.com/otomatik/ymca#readme"
+  "homepage": "https://github.com/otomatik/generator-ymca#readme"
 }

@@ -58,7 +58,7 @@ Inspired by the [generator-android-square-stack](https://raw.githubusercontent.c
 & made with the [yeoman generator-generator](https://github.com/yeoman/generator-generator)
 while listening to [the village people tube](https://www.youtube.com/watch?v=CS9OO0S5w2k) (if you didn't have the song in your head yet, you do now).
 
-![Cop](/village-people/cop.gif)![Worker](village-people/worker.gif)![Indian](/village-people/indian.gif)![GI](/village-people/gi.gif)![Leather](/village-people/leather.gif)
+![Cop](https://raw.githubusercontent.com/otomatik/generator-ymca/master/village-people/cop.gif)![Worker](https://raw.githubusercontent.com/otomatik/generator-ymca/master/village-people/worker.gif)![Indian](https://raw.githubusercontent.com/otomatik/generator-ymca/master/village-people/indian.gif)![GI](https://raw.githubusercontent.com/otomatik/generator-ymca/master/village-people/gi.gif)![Leather](https://raw.githubusercontent.com/otomatik/generator-ymca/master/village-people/leather.gif)
 
 ## License
 ```
