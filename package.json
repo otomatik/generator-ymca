@@ -1,6 +1,6 @@
 {
   "name": "generator-ymca",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yeoman MVP Clean Android Architecture",
   "main": "app/index.js",
   "scripts": {

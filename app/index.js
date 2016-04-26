@@ -102,6 +102,7 @@ module.exports = yeoman.generators.Base.extend({
       this.copy('gradle.properties', 'gradle.properties');
       this.copy('gradlew', 'gradlew');
       this.copy('gradlew.bat', 'gradlew.bat');
+      this.copy('LICENSE', 'LICENSE');
       this.copy('settings.gradle', 'settings.gradle');
       this.directory('gradle', 'gradle');
     },

@@ -25,6 +25,7 @@ describe('ymca:app', function () {
       'gradle.properties',
       'gradlew',
       'gradlew.bat',
+      'LICENSE',
       'settings.gradle'
     ]);
   });
